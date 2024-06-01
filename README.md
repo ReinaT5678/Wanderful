@@ -10,4 +10,5 @@ Currently, two official plugins are available:
  To run the site, enter the commands: 
 
 npm install vite --save-dev
+
 npm run dev
