@@ -12,3 +12,5 @@ Currently, two official plugins are available:
 npm install vite --save-dev
 
 npm run dev
+
+This application was from a group project forked from my school account GitHub.
