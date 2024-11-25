@@ -13,4 +13,4 @@ npm install vite --save-dev
 
 npm run dev
 
-This application was from a group project forked from my school account GitHub.
+This application was from a group project mirrored from my school account GitHub.
